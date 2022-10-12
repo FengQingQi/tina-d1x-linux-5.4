@@ -1,0 +1,78 @@
+!<thin>
+//                                              718       `
+core.o/
+nf_log.o/
+nf_queue.o/
+nf_sockopt.o/
+utils.o/
+nfnetlink.o/
+nf_conntrack_core.o/
+nf_conntrack_standalone.o/
+nf_conntrack_expect.o/
+nf_conntrack_helper.o/
+nf_conntrack_proto.o/
+nf_conntrack_proto_generic.o/
+nf_conntrack_proto_tcp.o/
+nf_conntrack_proto_udp.o/
+nf_conntrack_proto_icmp.o/
+nf_conntrack_extend.o/
+nf_conntrack_acct.o/
+nf_conntrack_seqadj.o/
+nf_conntrack_proto_icmpv6.o/
+nf_conntrack_timeout.o/
+nf_conntrack_timestamp.o/
+nf_conntrack_ecache.o/
+nf_conntrack_netlink.o/
+nfnetlink_cttimeout.o/
+nf_nat_core.o/
+nf_nat_proto.o/
+nf_nat_helper.o/
+nf_nat_redirect.o/
+nf_nat_masquerade.o/
+x_tables.o/
+xt_tcpudp.o/
+xt_connmark.o/
+xt_nat.o/
+xt_NETMAP.o/
+xt_REDIRECT.o/
+xt_MASQUERADE.o/
+xt_conntrack.o/
+xt_state.o/
+/0              0           0     0     644     24960     `
+/8              0           0     0     644     28904     `
+/18             0           0     0     644     9696      `
+/30             0           0     0     644     6192      `
+/44             0           0     0     644     7256      `
+/53             0           0     0     644     23520     `
+/66             0           0     0     644     81192     `
+/87             0           0     0     644     31512     `
+/114            0           0     0     644     33280     `
+/137            0           0     0     644     30352     `
+/160            0           0     0     644     26472     `
+/182            0           0     0     644     2064      `
+/212            0           0     0     644     31680     `
+/238            0           0     0     644     5928      `
+/264            0           0     0     644     10392     `
+/291            0           0     0     644     6832      `
+/314            0           0     0     644     3128      `
+/335            0           0     0     644     9680      `
+/358            0           0     0     644     7688      `
+/387            0           0     0     644     9248      `
+/411            0           0     0     644     3160      `
+/437            0           0     0     644     14224     `
+/460            0           0     0     644     87456     `
+/484            0           0     0     644     20320     `
+/507            0           0     0     644     34984     `
+/522            0           0     0     644     18416     `
+/538           /0           0     0     644     7072      `
+/555            0           0     0     644     4072      `
+/574            0           0     0     644     13408     `
+/595            0           0     0     644     68704     `
+/607            0           0     0     644     6536      `
+/620            0           0     0     644     8656      `
+/635            0           0     0     644     9120      `
+/645            0           0     0     644     5840      `
+/658            0           0     0     644     4528      `
+/673           /0           0     0     644     5112      `
+/690            0           0     0     644     9168      `
+/706            0           0     0     644     4784      `

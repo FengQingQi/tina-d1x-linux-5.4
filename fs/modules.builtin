@@ -1,0 +1,12 @@
+fs/binfmt_script.ko
+fs/configfs/configfs.ko
+fs/exportfs/exportfs.ko
+fs/fat/fat.ko
+fs/fat/vfat.ko
+fs/nls/nls_base.ko
+fs/nls/nls_cp437.ko
+fs/nls/nls_iso8859-1.ko
+fs/ntfs/ntfs.ko
+fs/overlayfs/overlay.ko
+fs/squashfs/squashfs.ko
+fs/ubifs/ubifs.ko

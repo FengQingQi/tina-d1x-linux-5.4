@@ -1,0 +1,195 @@
+!<thin>
+//                                              2496      `
+core/rtw_cmd.o/
+core/rtw_security.o/
+core/rtw_debug.o/
+core/rtw_io.o/
+core/rtw_ioctl_query.o/
+core/rtw_ioctl_set.o/
+core/rtw_ieee80211.o/
+core/rtw_mlme.o/
+core/rtw_mlme_ext.o/
+core/rtw_wlan_util.o/
+core/rtw_vht.o/
+core/rtw_pwrctrl.o/
+core/rtw_rf.o/
+core/rtw_recv.o/
+core/rtw_sta_mgt.o/
+core/rtw_ap.o/
+core/rtw_xmit.o/
+core/rtw_p2p.o/
+core/rtw_tdls.o/
+core/rtw_br_ext.o/
+core/rtw_iol.o/
+core/rtw_sreset.o/
+core/rtw_btcoex.o/
+core/rtw_beamforming.o/
+core/rtw_odm.o/
+core/efuse/rtw_efuse.o/
+os_dep/osdep_service.o/
+os_dep/linux/os_intfs.o/
+os_dep/linux/sdio_intf.o/
+os_dep/linux/sdio_ops_linux.o/
+os_dep/linux/ioctl_linux.o/
+os_dep/linux/xmit_linux.o/
+os_dep/linux/mlme_linux.o/
+os_dep/linux/recv_linux.o/
+os_dep/linux/ioctl_cfg80211.o/
+os_dep/linux/rtw_cfgvendor.o/
+os_dep/linux/wifi_regd.o/
+os_dep/linux/rtw_android.o/
+os_dep/linux/rtw_proc.o/
+os_dep/linux/ioctl_mp.o/
+os_dep/linux/custom_gpio_linux.o/
+hal/hal_intf.o/
+hal/hal_com.o/
+hal/hal_com_phycfg.o/
+hal/hal_phy.o/
+hal/hal_dm.o/
+hal/hal_btcoex.o/
+hal/hal_mp.o/
+hal/hal_hci/hal_sdio.o/
+hal/led/hal_sdio_led.o/
+hal/HalPwrSeqCmd.o/
+hal/rtl8188f/Hal8188FPwrSeq.o/
+hal/rtl8188f/rtl8188f_sreset.o/
+hal/rtl8188f/rtl8188f_hal_init.o/
+hal/rtl8188f/rtl8188f_phycfg.o/
+hal/rtl8188f/rtl8188f_rf6052.o/
+hal/rtl8188f/rtl8188f_dm.o/
+hal/rtl8188f/rtl8188f_rxdesc.o/
+hal/rtl8188f/rtl8188f_cmd.o/
+hal/rtl8188f/sdio/sdio_halinit.o/
+hal/rtl8188f/sdio/rtl8189fs_led.o/
+hal/rtl8188f/sdio/rtl8189fs_xmit.o/
+hal/rtl8188f/sdio/rtl8189fs_recv.o/
+hal/rtl8188f/sdio/sdio_ops.o/
+hal/efuse/rtl8188f/HalEfuseMask8188F_SDIO.o/
+hal/phydm/phydm_debug.o/
+hal/phydm/phydm_antdiv.o/
+hal/phydm/phydm_antdect.o/
+hal/phydm/phydm_interface.o/
+hal/phydm/phydm_hwconfig.o/
+hal/phydm/phydm.o/
+hal/phydm/halphyrf_ce.o/
+hal/phydm/phydm_edcaturbocheck.o/
+hal/phydm/phydm_dig.o/
+hal/phydm/phydm_pathdiv.o/
+hal/phydm/phydm_rainfo.o/
+hal/phydm/phydm_dynamicbbpowersaving.o/
+hal/phydm/phydm_powertracking_ce.o/
+hal/phydm/phydm_dynamictxpower.o/
+hal/phydm/phydm_adaptivity.o/
+hal/phydm/phydm_cfotracking.o/
+hal/phydm/phydm_noisemonitor.o/
+hal/phydm/phydm_acs.o/
+hal/phydm/phydm_beamforming.o/
+hal/phydm/txbf/halcomtxbf.o/
+hal/phydm/txbf/haltxbfinterface.o/
+hal/phydm/rtl8188f/halhwimg8188f_bb.o/
+hal/phydm/rtl8188f/halhwimg8188f_mac.o/
+hal/phydm/rtl8188f/halhwimg8188f_rf.o/
+hal/phydm/rtl8188f/halhwimg8188f_fw.o/
+hal/phydm/rtl8188f/phydm_regconfig8188f.o/
+hal/phydm/rtl8188f/halphyrf_8188f.o/
+hal/phydm/rtl8188f/phydm_rtl8188f.o/
+platform/platform_ops.o/
+core/rtw_mp.o/
+core/rtw_mp_ioctl.o/
+
+/0              0           0     0     644     95736     `
+/16             0           0     0     644     51888     `
+/37             0           0     0     644     251168    `
+/55             0           0     0     644     5696      `
+/70             0           0     0     644     848       `
+/94            /0           0     0     644     26008     `
+/116           /0           0     0     644     82520     `
+/138            0           0     0     644     89472     `
+/155            0           0     0     644     250776    `
+/176           /0           0     0     644     100160    `
+/198            0           0     0     644     840       `
+/214            0           0     0     644     32216     `
+/234            0           0     0     644     16824     `
+/249            0           0     0     644     69264     `
+/266            0           0     0     644     19496     `
+/286            0           0     0     644     70136     `
+/301            0           0     0     644     83520     `
+/318            0           0     0     644     77344     `
+/334            0           0     0     644     848       `
+/351            0           0     0     644     25736     `
+/370            0           0     0     644     840       `
+/386            0           0     0     644     5712      `
+/405            0           0     0     644     848       `
+/424            0           0     0     644     848       `
+/448            0           0     0     644     62304     `
+/464            0           0     0     644     41016     `
+/488           /0           0     0     644     21640     `
+/512            0           0     0     644     92872     `
+/537            0           0     0     644     20392     `
+/563            0           0     0     644     16032     `
+/594            0           0     0     644     184320    `
+/622            0           0     0     644     9376      `
+/649            0           0     0     644     10064     `
+/676            0           0     0     644     11696     `
+/703            0           0     0     644     105264    `
+/734           /0           0     0     644     11312     `
+/764            0           0     0     644     4112      `
+/790            0           0     0     644     18328     `
+/818            0           0     0     644     134856    `
+/843            0           0     0     644     76504     `
+/868            0           0     0     644     968       `
+/902            0           0     0     644     53624     `
+/918            0           0     0     644     130560    `
+/933            0           0     0     644     364216    `
+/955            0           0     0     644     6992      `
+/970            0           0     0     644     5856      `
+/984            0           0     0     644     848       `
+/1002           0           0     0     644     33672     `
+/1016           0           0     0     644     2280      `
+/1040           0           0     0     644     62976     `
+/1064           0           0     0     644     3616      `
+/1084           0           0     0     644     3344      `
+/1115           0           0     0     644     1760      `
+/1147           0           0     0     644     121304    `
+/1181           0           0     0     644     31488     `
+/1213           0           0     0     644     5688      `
+/1245           0           0     0     644     5184      `
+/1273           0           0     0     644     1448      `
+/1305           0           0     0     644     12336     `
+/1334           0           0     0     644     28096     `
+/1368          /0           0     0     644     1600      `
+/1403           0           0     0     644     19136     `
+/1439           0           0     0     644     8392      `
+/1475           0           0     0     644     32112     `
+/1505           0           0     0     644     1984      `
+/1550           0           0     0     644     59928     `
+/1575           0           0     0     644     1928      `
+/1601          /0           0     0     644     904       `
+/1628           0           0     0     644     8064      `
+/1657           0           0     0     644     18496     `
+/1685           0           0     0     644     45392     `
+/1704           0           0     0     644     11392     `
+/1729           0           0     0     644     3680      `
+/1763           0           0     0     644     18024     `
+/1786          /0           0     0     644     1016      `
+/1813           0           0     0     644     25536     `
+/1839           0           0     0     644     5128      `
+/1879           0           0     0     644     7104      `
+/1915           0           0     0     644     1784      `
+/1949           0           0     0     644     19352     `
+/1979           0           0     0     644     6312      `
+/2010           0           0     0     644     5856      `
+/2042           0           0     0     644     5320      `
+/2065           0           0     0     644     856       `
+/2096           0           0     0     644     848       `
+/2125           0           0     0     644     856       `
+/2160           0           0     0     644     7728      `
+/2199           0           0     0     644     4000      `
+/2239           0           0     0     644     138720    `
+/2278           0           0     0     644     45856     `
+/2317           0           0     0     644     5312      `
+/2360           0           0     0     644     50432     `
+/2397           0           0     0     644     1480      `
+/2434           0           0     0     644     968       `
+/2459           0           0     0     644     61616     `
+/2474           0           0     0     644     28728     `

@@ -1,0 +1,1 @@
+cmd_drivers/input/sensor/sunxi_gpadc.ko := riscv64-unknown-linux-gnu-ld -r  -melf64lriscv  --build-id  -T ./scripts/module-common.lds -T ./arch/riscv/kernel/module.lds -o drivers/input/sensor/sunxi_gpadc.ko drivers/input/sensor/sunxi_gpadc.o drivers/input/sensor/sunxi_gpadc.mod.o;  true

@@ -1,0 +1,74 @@
+!<thin>
+//                                              884       `
+v4l2-core/v4l2-dev.o/
+v4l2-core/v4l2-ioctl.o/
+v4l2-core/v4l2-device.o/
+v4l2-core/v4l2-fh.o/
+v4l2-core/v4l2-event.o/
+v4l2-core/v4l2-ctrls.o/
+v4l2-core/v4l2-subdev.o/
+v4l2-core/v4l2-clk.o/
+v4l2-core/v4l2-async.o/
+v4l2-core/v4l2-common.o/
+v4l2-core/v4l2-spi.o/
+v4l2-core/v4l2-i2c.o/
+v4l2-core/v4l2-dv-timings.o/
+rc/rc-main.o/
+rc/rc-ir-raw.o/
+rc/ir-nec-decoder.o/
+rc/rc-sunxi-keymaps.o/
+rc/sunxi-ir-dev.o/
+common/videobuf2/videobuf2-core.o/
+common/videobuf2/videobuf2-v4l2.o/
+common/videobuf2/videobuf2-memops.o/
+common/videobuf2/videobuf2-vmalloc.o/
+common/videobuf2/videobuf2-dma-contig.o/
+platform/sunxi-tvd/tvd.o/
+platform/sunxi-tvd/bsp_tvd.o/
+usb/uvc/uvc_driver.o/
+usb/uvc/uvc_queue.o/
+usb/uvc/uvc_v4l2.o/
+usb/uvc/uvc_video.o/
+usb/uvc/uvc_ctrl.o/
+usb/uvc/uvc_status.o/
+usb/uvc/uvc_isight.o/
+usb/uvc/uvc_debugfs.o/
+usb/uvc/uvc_metadata.o/
+cedar-ve/cedar_ve.o/
+cedar-ve/flush_cache.o/
+/0              0           0     0     644     42256     `
+/22             0           0     0     644     169872    `
+/46             0           0     0     644     11792     `
+/71             0           0     0     644     6976      `
+/92             0           0     0     644     14560     `
+/116            0           0     0     644     226840    `
+/140            0           0     0     644     14376     `
+/165            0           0     0     644     17664     `
+/187            0           0     0     644     24784     `
+/211            0           0     0     644     15056     `
+/236            0           0     0     644     3736      `
+/258            0           0     0     644     7608      `
+/280            0           0     0     644     51832     `
+/309            0           0     0     644     57936     `
+/323            0           0     0     644     26448     `
+/339            0           0     0     644     7784      `
+/360            0           0     0     644     1920      `
+/383            0           0     0     644     29928     `
+/402            0           0     0     644     118896    `
+/437            0           0     0     644     54136     `
+/472            0           0     0     644     3904      `
+/509            0           0     0     644     15264     `
+/547            0           0     0     644     28064     `
+/588            0           0     0     644     160376    `
+/614            0           0     0     644     17544     `
+/644            0           0     0     644     87304     `
+/666            0           0     0     644     11888     `
+/687            0           0     0     644     32416     `
+/707            0           0     0     644     49776     `
+/728            0           0     0     644     48464     `
+/748            0           0     0     644     9224      `
+/770            0           0     0     644     4304      `
+/792            0           0     0     644     2392      `
+/815            0           0     0     644     6296      `
+/839            0           0     0     644     80224     `
+/860            0           0     0     644     656       `

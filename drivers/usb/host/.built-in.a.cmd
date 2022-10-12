@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.a := echo >/dev/null; rm -f drivers/usb/host/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/usb/host/built-in.a drivers/usb/host/ehci-hcd.o drivers/usb/host/ehci-sunxi.o drivers/usb/host/ohci-hcd.o drivers/usb/host/ohci-sunxi.o drivers/usb/host/sunxi-hci.o

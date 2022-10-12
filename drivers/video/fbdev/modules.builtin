@@ -1,0 +1,2 @@
+drivers/video/fbdev/core/fb.ko
+drivers/video/fbdev/sunxi/disp2/disp/disp.ko

@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/uas.ko := riscv64-unknown-linux-gnu-ld -r  -melf64lriscv  --build-id  -T ./scripts/module-common.lds -T ./arch/riscv/kernel/module.lds -o drivers/usb/storage/uas.ko drivers/usb/storage/uas.o drivers/usb/storage/uas.mod.o;  true

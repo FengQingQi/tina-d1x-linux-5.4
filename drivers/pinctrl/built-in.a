@@ -1,0 +1,18 @@
+!<thin>
+//                                              128       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+devicetree.o/
+pinconf-generic.o/
+sunxi/pinctrl-sunxi.o/
+sunxi/pinctrl-sun8iw20.o/
+/0              0           0     0     644     60912     `
+/8             /0           0     0     644     6080      `
+/25             0           0     0     644     15280     `
+/35             0           0     0     644     6296      `
+/46             0           0     0     644     10816     `
+/60             0           0     0     644     11272     `
+/79            /0           0     0     644     52240     `
+/102            0           0     0     644     65168     `

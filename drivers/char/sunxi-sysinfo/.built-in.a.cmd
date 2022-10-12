@@ -1,0 +1,1 @@
+cmd_drivers/char/sunxi-sysinfo/built-in.a := echo >/dev/null; rm -f drivers/char/sunxi-sysinfo/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/char/sunxi-sysinfo/built-in.a drivers/char/sunxi-sysinfo/sunxi-sysinfo.o

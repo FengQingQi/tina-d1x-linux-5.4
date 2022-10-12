@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.a := echo >/dev/null; rm -f drivers/input/touchscreen/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/input/touchscreen/built-in.a drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/focaltech_touch/built-in.a drivers/input/touchscreen/gt9xxnew/built-in.a

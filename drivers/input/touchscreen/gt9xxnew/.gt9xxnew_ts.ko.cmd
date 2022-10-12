@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/gt9xxnew/gt9xxnew_ts.ko := riscv64-unknown-linux-gnu-ld -r  -melf64lriscv  --build-id  -T ./scripts/module-common.lds -T ./arch/riscv/kernel/module.lds -o drivers/input/touchscreen/gt9xxnew/gt9xxnew_ts.ko drivers/input/touchscreen/gt9xxnew/gt9xxnew_ts.o drivers/input/touchscreen/gt9xxnew/gt9xxnew_ts.mod.o;  true

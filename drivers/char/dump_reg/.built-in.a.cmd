@@ -1,0 +1,1 @@
+cmd_drivers/char/dump_reg/built-in.a := echo >/dev/null; rm -f drivers/char/dump_reg/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/char/dump_reg/built-in.a drivers/char/dump_reg/dump_reg.o drivers/char/dump_reg/dump_reg_misc.o

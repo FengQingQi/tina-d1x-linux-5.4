@@ -1,0 +1,15 @@
+sound/soundcore.ko
+sound/core/snd.ko
+sound/core/snd-timer.ko
+sound/core/snd-hrtimer.ko
+sound/core/snd-pcm.ko
+sound/core/snd-pcm-dmaengine.ko
+sound/soc/snd-soc-core.ko
+sound/soc/codecs/snd-soc-dmic.ko
+sound/soc/generic/snd-soc-simple-card-utils.ko
+sound/soc/sunxi/snd-soc-sunxi.ko
+sound/soc/sunxi/snd-soc-sunxi-simple-card.ko
+sound/soc/sunxi/snd-soc-sunxi-dummy-cpudai.ko
+sound/soc/sunxi/snd-soc-sunxi-daudio.ko
+sound/soc/sunxi/sun20iw1-codec.ko
+sound/soc/sunxi/sun20iw1-sndcodec.ko

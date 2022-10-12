@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/built-in.a := echo >/dev/null; rm -f drivers/media/rc/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/media/rc/built-in.a drivers/media/rc/keymaps/built-in.a drivers/media/rc/rc-main.o drivers/media/rc/rc-ir-raw.o drivers/media/rc/ir-nec-decoder.o drivers/media/rc/rc-sunxi-keymaps.o drivers/media/rc/sunxi-ir-dev.o

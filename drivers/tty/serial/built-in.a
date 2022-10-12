@@ -1,0 +1,11 @@
+!<thin>
+//                                              64        `
+serial_core.o/
+earlycon.o/
+earlycon-riscv-sbi.o/
+sunxi-uart.o/
+
+/0              0           0     0     644     89968     `
+/15             0           0     0     644     13560     `
+/27             0           0     0     644     2272      `
+/49             0           0     0     644     54408     `

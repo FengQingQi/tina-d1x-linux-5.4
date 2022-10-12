@@ -1,0 +1,1 @@
+cmd_drivers/misc/sunxi-rf/built-in.a := echo >/dev/null; rm -f drivers/misc/sunxi-rf/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/misc/sunxi-rf/built-in.a drivers/misc/sunxi-rf/sunxi-modem.o drivers/misc/sunxi-rf/sunxi-bluetooth.o drivers/misc/sunxi-rf/sunxi-wlan.o drivers/misc/sunxi-rf/sunxi-rfkill.o

@@ -1,0 +1,68 @@
+!<thin>
+//                                              626       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+sunxi-ng/ccu_common.o/
+sunxi-ng/ccu_mmc_timing.o/
+sunxi-ng/ccu_reset.o/
+sunxi-ng/ccu_div.o/
+sunxi-ng/ccu_frac.o/
+sunxi-ng/ccu_gate.o/
+sunxi-ng/ccu_mux.o/
+sunxi-ng/ccu_mult.o/
+sunxi-ng/ccu_phase.o/
+sunxi-ng/ccu_sdm.o/
+sunxi-ng/ccu_nk.o/
+sunxi-ng/ccu_nkm.o/
+sunxi-ng/ccu_nkmp.o/
+sunxi-ng/ccu_nm.o/
+sunxi-ng/ccu_mp.o/
+sunxi-ng/rtc-sunxi-ccu.o/
+sunxi-ng/ccu-sun8iw20.o/
+sunxi-ng/ccu-sun8iw20-rtc.o/
+sunxi-ng/ccu-sun8iw20-r.o/
+/0              0           0     0     644     8856      `
+/14             0           0     0     644     10264     `
+/26             0           0     0     644     17488     `
+/36             0           0     0     644     131816    `
+/43             0           0     0     644     19392     `
+/58             0           0     0     644     12520     `
+/78             0           0     0     644     10720     `
+/96             0           0     0     644     7632      `
+/108            0           0     0     644     4504      `
+/126            0           0     0     644     11640     `
+/137           /0           0     0     644     9840      `
+/154            0           0     0     644     7336      `
+/180            0           0     0     644     13096     `
+/192            0           0     0     644     7880      `
+/204            0           0     0     644     10664     `
+/227            0           0     0     644     2744      `
+/254            0           0     0     644     2232      `
+/276            0           0     0     644     4528      `
+/296            0           0     0     644     2824      `
+/317            0           0     0     644     4256      `
+/338            0           0     0     644     7624      `
+/358            0           0     0     644     5448      `
+/379            0           0     0     644     3072      `
+/401            0           0     0     644     3792      `
+/421            0           0     0     644     4248      `
+/440            0           0     0     644     5536      `
+/460            0           0     0     644     6704      `
+/481            0           0     0     644     7328      `
+/500            0           0     0     644     8256      `
+/519           /0           0     0     644     15224     `
+/545            0           0     0     644     87472     `
+/570            0           0     0     644     11880     `
+/599            0           0     0     644     11120     `

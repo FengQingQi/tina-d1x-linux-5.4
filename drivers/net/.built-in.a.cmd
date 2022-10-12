@@ -1,0 +1,1 @@
+cmd_drivers/net/built-in.a := echo >/dev/null; rm -f drivers/net/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/net/built-in.a drivers/net/Space.o drivers/net/loopback.o drivers/net/phy/built-in.a drivers/net/dsa/built-in.a drivers/net/wireless/built-in.a

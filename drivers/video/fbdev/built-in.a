@@ -1,0 +1,118 @@
+!<thin>
+//                                              2068      `
+core/fb_cmdline.o/
+core/fbmem.o/
+core/fbmon.o/
+core/fbcmap.o/
+core/fbsysfs.o/
+core/modedb.o/
+core/fbcvt.o/
+core/fb_notify.o/
+sunxi/disp2/disp/dev_disp.o/
+sunxi/disp2/disp/dev_fb.o/
+sunxi/disp2/disp/dev_disp_debugfs.o/
+sunxi/disp2/disp/disp_sys_intf.o/
+sunxi/disp2/disp/disp_trace.o/
+sunxi/disp2/disp/de/disp_display.o/
+sunxi/disp2/disp/de/disp_features.o/
+sunxi/disp2/disp/de/disp_device.o/
+sunxi/disp2/disp/de/disp_lcd.o/
+sunxi/disp2/disp/de/disp_manager.o/
+sunxi/disp2/disp/de/disp_private.o/
+sunxi/disp2/disp/de/disp_smart_backlight.o/
+sunxi/disp2/disp/de/disp_enhance.o/
+sunxi/disp2/disp/de/disp_capture.o/
+sunxi/disp2/disp/de/disp_hdmi.o/
+sunxi/disp2/disp/de/disp_tv.o/
+sunxi/disp2/disp/de/disp_vdevice.o/
+sunxi/disp2/disp/de/disp_vga.o/
+sunxi/disp2/disp/de/disp_vdpo.o/
+sunxi/disp2/disp/de/disp_edp.o/
+sunxi/disp2/disp/de/disp_rtwb.o/
+sunxi/disp2/disp/lcd/panels.o/
+sunxi/disp2/disp/lcd/lcd_source.o/
+sunxi/disp2/disp/lcd/default_panel.o/
+sunxi/disp2/disp/of_service.o/
+sunxi/disp2/disp/de/lcd_debug.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_fcc.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_gsu.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_hal.o/
+sunxi/disp2/disp/de/lowlevel_v2x/disp_al.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_peak.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_rtmx.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_scaler_table.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_vep_table.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_vsu.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_feat.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_lti.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_fce.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_ase.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_bws.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_enhance.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_smbl.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_ccsc.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_dcsc.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_wb.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_clock.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_dsi.o/
+sunxi/disp2/disp/de/lowlevel_v2x/de_lcd_sun50iw10.o/
+sunxi/disp2/disp/lcd/he0801a068.o/
+sunxi/disp2/disp/lcd/super_lcd_driver.o/
+/0              0           0     0     644     6016      `
+/19             0           0     0     644     45088     `
+/33             0           0     0     644     4240      `
+/47             0           0     0     644     14016     `
+/62             0           0     0     644     13936     `
+/78             0           0     0     644     20144     `
+/93             0           0     0     644     8384      `
+/107            0           0     0     644     3288      `
+/125            0           0     0     644     192336    `
+/154            0           0     0     644     59544     `
+/181            0           0     0     644     1560      `
+/218           /0           0     0     644     26968     `
+/252            0           0     0     644     848       `
+/283            0           0     0     644     53888     `
+/319           /0           0     0     644     3112      `
+/356            0           0     0     644     9992      `
+/391            0           0     0     644     142856    `
+/423            0           0     0     644     133192    `
+/459            0           0     0     644     26320     `
+/495            0           0     0     644     18104     `
+/539            0           0     0     644     25904     `
+/575            0           0     0     644     52488     `
+/611            0           0     0     644     70648     `
+/644            0           0     0     644     62848     `
+/675            0           0     0     644     60056     `
+/711            0           0     0     644     848       `
+/743            0           0     0     644     848       `
+/776            0           0     0     644     848       `
+/808            0           0     0     644     848       `
+/841            0           0     0     644     2088      `
+/872            0           0     0     644     9904      `
+/907           /0           0     0     644     5288      `
+/945            0           0     0     644     3728      `
+/976            0           0     0     644     7208      `
+/1009           0           0     0     644     5688      `
+/1052           0           0     0     644     8104      `
+/1095           0           0     0     644     21104     `
+/1138           0           0     0     644     38608     `
+/1182           0           0     0     644     5416      `
+/1226           0           0     0     644     57280     `
+/1270           0           0     0     644     14472     `
+/1322           0           0     0     644     3904      `
+/1371           0           0     0     644     15232     `
+/1414           0           0     0     644     9840      `
+/1458           0           0     0     644     4928      `
+/1501           0           0     0     644     24952     `
+/1544           0           0     0     644     4792      `
+/1587           0           0     0     644     7536      `
+/1630           0           0     0     644     16152     `
+/1677           0           0     0     644     1496      `
+/1721           0           0     0     644     17144     `
+/1765           0           0     0     644     7224      `
+/1809           0           0     0     644     8064      `
+/1851           0           0     0     644     5544      `
+/1896           0           0     0     644     22888     `
+/1939           0           0     0     644     41464     `
+/1992           0           0     0     644     16968     `
+/2027           0           0     0     644     9816      `

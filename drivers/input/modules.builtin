@@ -1,0 +1,5 @@
+drivers/input/input-core.ko
+drivers/input/evdev.ko
+drivers/input/init-input.ko
+drivers/input/touchscreen/of_touchscreen.ko
+drivers/input/touchscreen/focaltech_touch/focaltech_ts.ko

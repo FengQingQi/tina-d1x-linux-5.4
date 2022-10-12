@@ -1,0 +1,1 @@
+cmd_drivers/dma/built-in.a := echo >/dev/null; rm -f drivers/dma/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/dma/built-in.a drivers/dma/dmaengine.o drivers/dma/virt-dma.o drivers/dma/of-dma.o drivers/dma/sun6i-dma.o drivers/dma/mediatek/built-in.a drivers/dma/qcom/built-in.a drivers/dma/ti/built-in.a drivers/dma/xilinx/built-in.a

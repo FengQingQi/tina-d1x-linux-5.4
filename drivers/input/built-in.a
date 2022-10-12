@@ -1,0 +1,115 @@
+!<thin>
+//                                              3650      `
+input.o/
+input-compat.o/
+input-mt.o/
+input-poller.o/
+ff-core.o/
+evdev.o/
+touchscreen/of_touchscreen.o/
+touchscreen/focaltech_touch/focaltech_core.o/
+touchscreen/focaltech_touch/focaltech_ex_fun.o/
+touchscreen/focaltech_touch/focaltech_ex_mode.o/
+touchscreen/focaltech_touch/focaltech_flash.o/
+touchscreen/focaltech_touch/focaltech_gesture.o/
+touchscreen/focaltech_touch/focaltech_esdcheck.o/
+touchscreen/focaltech_touch/focaltech_i2c.o/
+touchscreen/focaltech_touch/focaltech_sensor.o/
+touchscreen/focaltech_touch/focaltech_point_report_check.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft5x46.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft5822.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft6336gu.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft8006.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft8606.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft8607.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft8716.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft8736.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_idc.o/
+touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_test.o/
+touchscreen/focaltech_touch/focaltech_test/src/focaltech_test.o/
+touchscreen/focaltech_touch/focaltech_test/src/focaltech_test_main.o/
+touchscreen/focaltech_touch/focaltech_test/src/focaltech_test_ini.o/
+touchscreen/focaltech_touch/focaltech_test/src/focaltech_test_global.o/
+touchscreen/focaltech_touch/focaltech_test/src/focaltech_test_detail_threshold.o/
+touchscreen/focaltech_touch/focaltech_test/src/focaltech_ic_table.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft3d47.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft3d47.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft8716.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft8716.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft8607.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft8607.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft5x46.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft5x46.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft6x36.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft6x36.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft5822.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft5822.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft8006.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft8006.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft8736.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft8736.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_fte716.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_fte716.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft8606.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft8606.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_config_ft3c47.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft3c47.o/
+touchscreen/focaltech_touch/focaltech_test/supported_ic/focaltech_test_supported_ic.o/
+init-input.o/
+
+/0              0           0     0     644     98816     `
+/9              0           0     0     644     2976      `
+/25             0           0     0     644     14224     `
+/37             0           0     0     644     9296      `
+/53             0           0     0     644     10664     `
+/64             0           0     0     644     41344     `
+/73             0           0     0     644     8976      `
+/103            0           0     0     644     37024     `
+/149            0           0     0     644     40480     `
+/197            0           0     0     644     3008      `
+/246            0           0     0     644     14984     `
+/293            0           0     0     644     856       `
+/342            0           0     0     644     856       `
+/392           /0           0     0     644     4952      `
+/437            0           0     0     644     856       `
+/485            0           0     0     644     864       `
+/545            0           0     0     644     16776     `
+/617            0           0     0     644     864       `
+/689            0           0     0     644     864       `
+/763            0           0     0     644     864       `
+/835            0           0     0     644     864       `
+/907            0           0     0     644     864       `
+/979            0           0     0     644     864       `
+/1051           0           0     0     644     864       `
+/1123           0           0     0     644     856       `
+/1192           0           0     0     644     888       `
+/1262           0           0     0     644     27832     `
+/1327           0           0     0     644     15976     `
+/1397           0           0     0     644     14976     `
+/1466           0           0     0     644     20088     `
+/1538           0           0     0     644     120640    `
+/1620           0           0     0     644     36504     `
+/1689           0           0     0     644     864       `
+/1777           0           0     0     644     856       `
+/1858           0           0     0     644     864       `
+/1946           0           0     0     644     856       `
+/2027           0           0     0     644     864       `
+/2115           0           0     0     644     856       `
+/2196           0           0     0     644     72232     `
+/2284           0           0     0     644     128568    `
+/2365           0           0     0     644     864       `
+/2453           0           0     0     644     856       `
+/2534           0           0     0     644     864       `
+/2622           0           0     0     644     856       `
+/2703           0           0     0     644     864       `
+/2791           0           0     0     644     856       `
+/2872           0           0     0     644     864       `
+/2960           0           0     0     644     856       `
+/3041           0           0     0     644     864       `
+/3129           0           0     0     644     856       `
+/3210           0           0     0     644     864       `
+/3298           0           0     0     644     856       `
+/3379           0           0     0     644     864       `
+/3467           0           0     0     644     856       `
+/3548           0           0     0     644     3088      `
+/3635           0           0     0     644     43208     `

@@ -1,0 +1,15 @@
+!<thin>
+//                                              112       `
+sunxi-pcm.o/
+sunxi-simple-card.o/
+sunxi-dummy-cpudai.o/
+sunxi-daudio.o/
+sun20iw1-codec.o/
+sun20iw1-sndcodec.o/
+
+/0              0           0     0     644     23864     `
+/13             0           0     0     644     22184     `
+/34             0           0     0     644     11896     `
+/56             0           0     0     644     76912     `
+/72             0           0     0     644     125760    `
+/90             0           0     0     644     40968     `

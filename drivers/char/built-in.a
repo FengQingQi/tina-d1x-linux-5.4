@@ -1,0 +1,37 @@
+!<thin>
+//                                              422       `
+mem.o/
+random.o/
+misc.o/
+dump_reg/dump_reg.o/
+dump_reg/dump_reg_misc.o/
+sunxi_g2d/syncfence.o/
+sunxi_g2d/g2d_rcq/g2d.o/
+sunxi_g2d/g2d_rcq/g2d_top.o/
+sunxi_g2d/g2d_rcq/g2d_mixer.o/
+sunxi_g2d/g2d_rcq/g2d_ovl_v.o/
+sunxi_g2d/g2d_rcq/g2d_ovl_u.o/
+sunxi_g2d/g2d_rcq/g2d_rcq.o/
+sunxi_g2d/g2d_rcq/g2d_scal.o/
+sunxi_g2d/g2d_rcq/g2d_wb.o/
+sunxi_g2d/g2d_rcq/g2d_bld.o/
+sunxi_g2d/g2d_rcq/g2d_rotate.o/
+sunxi-sysinfo/sunxi-sysinfo.o/
+
+/0              0           0     0     644     11200     `
+/7              0           0     0     644     57664     `
+/17             0           0     0     644     13456     `
+/25             0           0     0     644     43920     `
+/46            /0           0     0     644     11032     `
+/72             0           0     0     644     13056     `
+/95             0           0     0     644     58144     `
+/120            0           0     0     644     4872      `
+/149            0           0     0     644     35488     `
+/180            0           0     0     644     11072     `
+/211            0           0     0     644     8680      `
+/242            0           0     0     644     2760      `
+/271            0           0     0     644     13216     `
+/301            0           0     0     644     7864      `
+/329            0           0     0     644     18992     `
+/358            0           0     0     644     16088     `
+/390           /0           0     0     644     14352     `

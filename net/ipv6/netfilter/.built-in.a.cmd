@@ -1,0 +1,1 @@
+cmd_net/ipv6/netfilter/built-in.a := echo >/dev/null; rm -f net/ipv6/netfilter/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST net/ipv6/netfilter/built-in.a net/ipv6/netfilter/nf_defrag_ipv6_hooks.o net/ipv6/netfilter/nf_conntrack_reasm.o

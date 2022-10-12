@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/sunxi/built-in.a := echo >/dev/null; rm -f drivers/pinctrl/sunxi/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/pinctrl/sunxi/built-in.a drivers/pinctrl/sunxi/pinctrl-sunxi.o drivers/pinctrl/sunxi/pinctrl-sun8iw20.o

@@ -1,0 +1,6 @@
+drivers/soc/sunxi/vf-test.ko
+drivers/net/wireless/xr819s/xr819s.ko
+drivers/usb/storage/uas.ko
+drivers/usb/storage/usb-storage.ko
+drivers/input/touchscreen/gt9xxnew/gt9xxnew_ts.ko
+drivers/input/sensor/sunxi_gpadc.ko

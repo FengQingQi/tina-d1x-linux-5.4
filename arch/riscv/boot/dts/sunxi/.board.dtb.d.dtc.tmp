@@ -1,0 +1,1 @@
+arch/riscv/boot/dts/sunxi/board.dtb: arch/riscv/boot/dts/sunxi/.board.dtb.dts.tmp

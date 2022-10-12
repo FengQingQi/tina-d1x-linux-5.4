@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/xr819s/xr819s.ko := riscv64-unknown-linux-gnu-ld -r  -melf64lriscv  --build-id  -T ./scripts/module-common.lds -T ./arch/riscv/kernel/module.lds -o drivers/net/wireless/xr819s/xr819s.ko drivers/net/wireless/xr819s/xr819s.o drivers/net/wireless/xr819s/xr819s.mod.o;  true

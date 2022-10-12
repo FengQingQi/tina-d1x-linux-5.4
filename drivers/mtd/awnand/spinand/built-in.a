@@ -1,0 +1,21 @@
+!<thin>
+//                                              134       `
+sunxi-core.o/
+sunxi-debug.o/
+physic/core.o/
+physic/ecc.o/
+physic/id.o/
+physic/ops.o/
+physic/bbt.o/
+physic/cache.o/
+secure-storage.o/
+
+/0              0           0     0     644     31216     `
+/14             0           0     0     644     14232     `
+/29             0           0     0     644     11216     `
+/44             0           0     0     644     8088      `
+/58             0           0     0     644     39616     `
+/71             0           0     0     644     24944     `
+/85             0           0     0     644     2616      `
+/99             0           0     0     644     9624      `
+/115            0           0     0     644     13384     `

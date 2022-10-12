@@ -1,0 +1,1 @@
+cmd_sound/soc/sunxi/built-in.a := echo >/dev/null; rm -f sound/soc/sunxi/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST sound/soc/sunxi/built-in.a sound/soc/sunxi/sunxi-pcm.o sound/soc/sunxi/sunxi-simple-card.o sound/soc/sunxi/sunxi-dummy-cpudai.o sound/soc/sunxi/sunxi-daudio.o sound/soc/sunxi/sun20iw1-codec.o sound/soc/sunxi/sun20iw1-sndcodec.o

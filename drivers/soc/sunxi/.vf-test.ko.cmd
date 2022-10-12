@@ -1,0 +1,1 @@
+cmd_drivers/soc/sunxi/vf-test.ko := riscv64-unknown-linux-gnu-ld -r  -melf64lriscv  --build-id  -T ./scripts/module-common.lds -T ./arch/riscv/kernel/module.lds -o drivers/soc/sunxi/vf-test.ko drivers/soc/sunxi/vf-test.o drivers/soc/sunxi/vf-test.mod.o;  true

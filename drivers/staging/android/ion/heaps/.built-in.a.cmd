@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/heaps/built-in.a := echo >/dev/null; rm -f drivers/staging/android/ion/heaps/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/staging/android/ion/heaps/built-in.a drivers/staging/android/ion/heaps/ion_system_heap.o drivers/staging/android/ion/heaps/ion_page_pool.o drivers/staging/android/ion/heaps/ion_cma_heap.o

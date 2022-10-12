@@ -1,0 +1,21 @@
+!<thin>
+//                                              206       `
+spinand/sunxi-core.o/
+spinand/sunxi-debug.o/
+spinand/physic/core.o/
+spinand/physic/ecc.o/
+spinand/physic/id.o/
+spinand/physic/ops.o/
+spinand/physic/bbt.o/
+spinand/physic/cache.o/
+spinand/secure-storage.o/
+
+/0              0           0     0     644     31216     `
+/22             0           0     0     644     14232     `
+/45             0           0     0     644     11216     `
+/68             0           0     0     644     8088      `
+/90             0           0     0     644     39616     `
+/111            0           0     0     644     24944     `
+/133            0           0     0     644     2616      `
+/155            0           0     0     644     9624      `
+/179            0           0     0     644     13384     `

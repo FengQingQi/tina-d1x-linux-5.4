@@ -1,0 +1,1 @@
+cmd_drivers/gpio/built-in.a := echo >/dev/null; rm -f drivers/gpio/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/gpio/built-in.a drivers/gpio/gpiolib.o drivers/gpio/gpiolib-devres.o drivers/gpio/gpiolib-legacy.o drivers/gpio/gpiolib-devprop.o drivers/gpio/gpiolib-of.o drivers/gpio/gpiolib-sysfs.o

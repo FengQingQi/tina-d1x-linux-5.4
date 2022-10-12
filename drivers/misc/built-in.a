@@ -1,0 +1,14 @@
+!<thin>
+//                                              146       `
+sunxi-rf/sunxi-modem.o/
+sunxi-rf/sunxi-bluetooth.o/
+sunxi-rf/sunxi-wlan.o/
+sunxi-rf/sunxi-rfkill.o/
+sunxi-addr/sunxi-addr.o/
+sunxi-addr/sha256.o/
+/0              0           0     0     644     13896     `
+/24             0           0     0     644     16600     `
+/52             0           0     0     644     27152     `
+/75             0           0     0     644     12440     `
+/100            0           0     0     644     25320     `
+/125            0           0     0     644     4248      `

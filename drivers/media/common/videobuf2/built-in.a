@@ -1,0 +1,13 @@
+!<thin>
+//                                              102       `
+videobuf2-core.o/
+videobuf2-v4l2.o/
+videobuf2-memops.o/
+videobuf2-vmalloc.o/
+videobuf2-dma-contig.o/
+
+/0              0           0     0     644     118896    `
+/18             0           0     0     644     54136     `
+/36             0           0     0     644     3904      `
+/56             0           0     0     644     15264     `
+/77             0           0     0     644     28064     `

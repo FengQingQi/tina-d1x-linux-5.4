@@ -1,0 +1,1 @@
+cmd_net/netfilter/xt_multiport.ko := riscv64-unknown-linux-gnu-ld -r  -melf64lriscv  --build-id  -T ./scripts/module-common.lds -T ./arch/riscv/kernel/module.lds -o net/netfilter/xt_multiport.ko net/netfilter/xt_multiport.o net/netfilter/xt_multiport.mod.o;  true

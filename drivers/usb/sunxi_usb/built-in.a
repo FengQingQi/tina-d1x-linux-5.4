@@ -1,0 +1,28 @@
+!<thin>
+//                                              280       `
+manager/usb_manager.o/
+manager/usbc0_platform.o/
+manager/usb_hcd_servers.o/
+manager/usb_hw_scan.o/
+manager/usb_msg_center.o/
+udc/sunxi_udc.o/
+udc/sunxi_udc_board.o/
+udc/sunxi_udc_debug.o/
+udc/sunxi_udc_dma.o/
+usbc/usbc.o/
+usbc/usbc_dev.o/
+usbc/usbc_phy.o/
+misc/sunxi_usb_debug.o/
+/0              0           0     0     644     26408     `
+/23             0           0     0     644     12256     `
+/49             0           0     0     644     3888      `
+/76             0           0     0     644     17584     `
+/99             0           0     0     644     7672      `
+/125            0           0     0     644     132904    `
+/142            0           0     0     644     7952      `
+/165            0           0     0     644     2280      `
+/188           /0           0     0     644     5144      `
+/209            0           0     0     644     39648     `
+/222            0           0     0     644     20752     `
+/239            0           0     0     644     5208      `
+/256            0           0     0     644     15800     `

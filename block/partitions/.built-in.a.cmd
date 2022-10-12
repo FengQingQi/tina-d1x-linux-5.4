@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.a := echo >/dev/null; rm -f block/partitions/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST block/partitions/built-in.a block/partitions/check.o block/partitions/msdos.o block/partitions/efi.o

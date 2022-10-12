@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/built-in.a := echo >/dev/null; rm -f drivers/power/supply/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/power/supply/built-in.a drivers/power/supply/power_supply_core.o drivers/power/supply/power_supply_sysfs.o drivers/power/supply/power_supply_hwmon.o

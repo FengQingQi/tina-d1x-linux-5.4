@@ -1,0 +1,11 @@
+board.o: arch/riscv/boot/dts/sunxi/board.dts \
+ arch/riscv/boot/dts/sunxi/sun20iw1p1.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/clock/sun8iw20-ccu.h \
+ scripts/dtc/include-prefixes/dt-bindings/clock/sun8iw20-r-ccu.h \
+ scripts/dtc/include-prefixes/dt-bindings/clock/sun8iw20-rtc.h \
+ scripts/dtc/include-prefixes/dt-bindings/reset/sun8iw20-ccu.h \
+ scripts/dtc/include-prefixes/dt-bindings/reset/sun8iw20-r-ccu.h \
+ scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h \
+ scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+ scripts/dtc/include-prefixes/dt-bindings/gpio/sun4i-gpio.h \
+ scripts/dtc/include-prefixes/dt-bindings/thermal/thermal.h

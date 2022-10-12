@@ -1,0 +1,14 @@
+drivers/usb/common/usb-common.ko
+drivers/usb/gadget/libcomposite.ko
+drivers/usb/gadget/function/u_serial.ko
+drivers/usb/gadget/function/usb_f_serial.ko
+drivers/usb/gadget/function/usb_f_fs.ko
+drivers/usb/gadget/udc/udc-core.ko
+drivers/usb/host/ehci-hcd.ko
+drivers/usb/host/ehci-sunxi.ko
+drivers/usb/host/ohci-hcd.ko
+drivers/usb/host/ohci-sunxi.ko
+drivers/usb/host/sunxi-hci.ko
+drivers/usb/roles/roles.ko
+drivers/usb/sunxi_usb/sunxi_usbc.ko
+drivers/usb/sunxi_usb/sunxi_usb_udc.ko

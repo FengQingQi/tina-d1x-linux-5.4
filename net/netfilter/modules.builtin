@@ -1,0 +1,14 @@
+net/netfilter/nfnetlink.ko
+net/netfilter/nf_conntrack.ko
+net/netfilter/nf_conntrack_netlink.ko
+net/netfilter/nfnetlink_cttimeout.ko
+net/netfilter/nf_nat.ko
+net/netfilter/x_tables.ko
+net/netfilter/xt_tcpudp.ko
+net/netfilter/xt_connmark.ko
+net/netfilter/xt_nat.ko
+net/netfilter/xt_NETMAP.ko
+net/netfilter/xt_REDIRECT.ko
+net/netfilter/xt_MASQUERADE.ko
+net/netfilter/xt_conntrack.ko
+net/netfilter/xt_state.ko

@@ -1,0 +1,41 @@
+!<thin>
+//                                              344       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-dai.o/
+soc-component.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-generic-dmaengine-pcm.o/
+codecs/dmic.o/
+generic/simple-card-utils.o/
+sunxi/sunxi-pcm.o/
+sunxi/sunxi-simple-card.o/
+sunxi/sunxi-dummy-cpudai.o/
+sunxi/sunxi-daudio.o/
+sunxi/sun20iw1-codec.o/
+sunxi/sun20iw1-sndcodec.o/
+
+/0              0           0     0     644     113272    `
+/12             0           0     0     644     127032    `
+/24             0           0     0     644     16904     `
+/36             0           0     0     644     8984      `
+/49             0           0     0     644     9760      `
+/60            /0           0     0     644     18032     `
+/77             0           0     0     644     90376     `
+/88             0           0     0     644     6488      `
+/98             0           0     0     644     4896      `
+/112            0           0     0     644     24704     `
+/123            0           0     0     644     18744     `
+/152            0           0     0     644     10992     `
+/167            0           0     0     644     26080     `
+/196            0           0     0     644     23864     `
+/215            0           0     0     644     22184     `
+/242            0           0     0     644     11896     `
+/270            0           0     0     644     76912     `
+/292            0           0     0     644     125760    `
+/316            0           0     0     644     40968     `

@@ -1,0 +1,1 @@
+cmd_drivers/pci/built-in.a := echo >/dev/null; rm -f drivers/pci/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/pci/built-in.a drivers/pci/of.o drivers/pci/controller/built-in.a drivers/pci/switch/built-in.a

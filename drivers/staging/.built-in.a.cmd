@@ -1,0 +1,1 @@
+cmd_drivers/staging/built-in.a := echo >/dev/null; rm -f drivers/staging/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/staging/built-in.a drivers/staging/media/built-in.a drivers/staging/android/built-in.a drivers/staging/exfat/built-in.a

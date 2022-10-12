@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/sunxi/built-in.a := echo >/dev/null; rm -f drivers/video/fbdev/sunxi/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/video/fbdev/sunxi/built-in.a drivers/video/fbdev/sunxi/disp2/disp/built-in.a

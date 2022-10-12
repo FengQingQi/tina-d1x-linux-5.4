@@ -1,0 +1,1 @@
+cmd_drivers/of/built-in.a := echo >/dev/null; rm -f drivers/of/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/of/built-in.a drivers/of/base.o drivers/of/device.o drivers/of/platform.o drivers/of/property.o drivers/of/kobj.o drivers/of/fdt.o drivers/of/fdt_address.o drivers/of/address.o drivers/of/irq.o drivers/of/of_net.o drivers/of/of_reserved_mem.o

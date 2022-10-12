@@ -1,0 +1,98 @@
+!<thin>
+//                                              2188      `
+focaltech_core.o/
+focaltech_ex_fun.o/
+focaltech_ex_mode.o/
+focaltech_flash.o/
+focaltech_gesture.o/
+focaltech_esdcheck.o/
+focaltech_i2c.o/
+focaltech_sensor.o/
+focaltech_point_report_check.o/
+focaltech_flash/focaltech_upgrade_ft5x46.o/
+focaltech_flash/focaltech_upgrade_ft5822.o/
+focaltech_flash/focaltech_upgrade_ft6336gu.o/
+focaltech_flash/focaltech_upgrade_ft8006.o/
+focaltech_flash/focaltech_upgrade_ft8606.o/
+focaltech_flash/focaltech_upgrade_ft8607.o/
+focaltech_flash/focaltech_upgrade_ft8716.o/
+focaltech_flash/focaltech_upgrade_ft8736.o/
+focaltech_flash/focaltech_upgrade_idc.o/
+focaltech_flash/focaltech_upgrade_test.o/
+focaltech_test/src/focaltech_test.o/
+focaltech_test/src/focaltech_test_main.o/
+focaltech_test/src/focaltech_test_ini.o/
+focaltech_test/src/focaltech_test_global.o/
+focaltech_test/src/focaltech_test_detail_threshold.o/
+focaltech_test/src/focaltech_ic_table.o/
+focaltech_test/supported_ic/focaltech_test_config_ft3d47.o/
+focaltech_test/supported_ic/focaltech_test_ft3d47.o/
+focaltech_test/supported_ic/focaltech_test_config_ft8716.o/
+focaltech_test/supported_ic/focaltech_test_ft8716.o/
+focaltech_test/supported_ic/focaltech_test_config_ft8607.o/
+focaltech_test/supported_ic/focaltech_test_ft8607.o/
+focaltech_test/supported_ic/focaltech_test_config_ft5x46.o/
+focaltech_test/supported_ic/focaltech_test_ft5x46.o/
+focaltech_test/supported_ic/focaltech_test_config_ft6x36.o/
+focaltech_test/supported_ic/focaltech_test_ft6x36.o/
+focaltech_test/supported_ic/focaltech_test_config_ft5822.o/
+focaltech_test/supported_ic/focaltech_test_ft5822.o/
+focaltech_test/supported_ic/focaltech_test_config_ft8006.o/
+focaltech_test/supported_ic/focaltech_test_ft8006.o/
+focaltech_test/supported_ic/focaltech_test_config_ft8736.o/
+focaltech_test/supported_ic/focaltech_test_ft8736.o/
+focaltech_test/supported_ic/focaltech_test_config_fte716.o/
+focaltech_test/supported_ic/focaltech_test_fte716.o/
+focaltech_test/supported_ic/focaltech_test_config_ft8606.o/
+focaltech_test/supported_ic/focaltech_test_ft8606.o/
+focaltech_test/supported_ic/focaltech_test_config_ft3c47.o/
+focaltech_test/supported_ic/focaltech_test_ft3c47.o/
+focaltech_test/supported_ic/focaltech_test_supported_ic.o/
+/0              0           0     0     644     37024     `
+/18             0           0     0     644     40480     `
+/38             0           0     0     644     3008      `
+/59             0           0     0     644     14984     `
+/78             0           0     0     644     856       `
+/99             0           0     0     644     856       `
+/121           /0           0     0     644     4952      `
+/138            0           0     0     644     856       `
+/158            0           0     0     644     864       `
+/190            0           0     0     644     16776     `
+/234            0           0     0     644     864       `
+/278            0           0     0     644     864       `
+/324            0           0     0     644     864       `
+/368            0           0     0     644     864       `
+/412            0           0     0     644     864       `
+/456            0           0     0     644     864       `
+/500            0           0     0     644     864       `
+/544            0           0     0     644     856       `
+/585            0           0     0     644     888       `
+/627            0           0     0     644     27832     `
+/664            0           0     0     644     15976     `
+/706            0           0     0     644     14976     `
+/747            0           0     0     644     20088     `
+/791            0           0     0     644     120640    `
+/845            0           0     0     644     36504     `
+/886            0           0     0     644     864       `
+/946            0           0     0     644     856       `
+/999            0           0     0     644     864       `
+/1059           0           0     0     644     856       `
+/1112           0           0     0     644     864       `
+/1172           0           0     0     644     856       `
+/1225           0           0     0     644     72232     `
+/1285           0           0     0     644     128568    `
+/1338           0           0     0     644     864       `
+/1398           0           0     0     644     856       `
+/1451           0           0     0     644     864       `
+/1511           0           0     0     644     856       `
+/1564           0           0     0     644     864       `
+/1624           0           0     0     644     856       `
+/1677           0           0     0     644     864       `
+/1737           0           0     0     644     856       `
+/1790           0           0     0     644     864       `
+/1850           0           0     0     644     856       `
+/1903           0           0     0     644     864       `
+/1963           0           0     0     644     856       `
+/2016           0           0     0     644     864       `
+/2076           0           0     0     644     856       `
+/2129           0           0     0     644     3088      `

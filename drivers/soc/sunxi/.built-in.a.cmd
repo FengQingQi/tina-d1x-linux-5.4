@@ -1,0 +1,1 @@
+cmd_drivers/soc/sunxi/built-in.a := echo >/dev/null; rm -f drivers/soc/sunxi/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/soc/sunxi/built-in.a drivers/soc/sunxi/sunxi-sid.o drivers/soc/sunxi/sunxi_riscv_pm.o

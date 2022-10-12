@@ -1,0 +1,64 @@
+!<thin>
+//                                              542       `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+parsers/ofpart.o/
+mtd_blkdevs.o/
+mtdblock.o/
+chips/chipreg.o/
+ubi/vtbl.o/
+ubi/vmt.o/
+ubi/upd.o/
+ubi/build.o/
+ubi/cdev.o/
+ubi/kapi.o/
+ubi/eba.o/
+ubi/io.o/
+ubi/wl.o/
+ubi/attach.o/
+ubi/misc.o/
+ubi/debug.o/
+ubi/block.o/
+awnand/spinand/sunxi-core.o/
+awnand/spinand/sunxi-debug.o/
+awnand/spinand/physic/core.o/
+awnand/spinand/physic/ecc.o/
+awnand/spinand/physic/id.o/
+awnand/spinand/physic/ops.o/
+awnand/spinand/physic/bbt.o/
+awnand/spinand/physic/cache.o/
+awnand/spinand/secure-storage.o/
+/0              0           0     0     644     66816     `
+/11             0           0     0     644     6968      `
+/23             0           0     0     644     21224     `
+/36             0           0     0     644     35936     `
+/47             0           0     0     644     34464     `
+/58             0           0     0     644     11744     `
+/76             0           0     0     644     27648     `
+/91             0           0     0     644     9320      `
+/103            0           0     0     644     5808      `
+/120            0           0     0     644     24920     `
+/132            0           0     0     644     32824     `
+/143            0           0     0     644     12344     `
+/154            0           0     0     644     55088     `
+/167            0           0     0     644     33288     `
+/179            0           0     0     644     23240     `
+/191            0           0     0     644     46280     `
+/202            0           0     0     644     50920     `
+/212            0           0     0     644     62224     `
+/222            0           0     0     644     47240     `
+/236            0           0     0     644     5360      `
+/248            0           0     0     644     24872     `
+/261            0           0     0     644     26696     `
+/274            0           0     0     644     31216     `
+/303            0           0     0     644     14232     `
+/333            0           0     0     644     11216     `
+/363            0           0     0     644     8088      `
+/392            0           0     0     644     39616     `
+/420            0           0     0     644     24944     `
+/449            0           0     0     644     2616      `
+/478            0           0     0     644     9624      `
+/509            0           0     0     644     13384     `

@@ -1,0 +1,1 @@
+cmd_drivers/media/cedar-ve/built-in.a := echo >/dev/null; rm -f drivers/media/cedar-ve/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/media/cedar-ve/built-in.a drivers/media/cedar-ve/cedar_ve.o drivers/media/cedar-ve/flush_cache.o

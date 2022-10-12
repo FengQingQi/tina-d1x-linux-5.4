@@ -1,0 +1,4 @@
+drivers/char/dump_reg/dump_reg.ko
+drivers/char/dump_reg/dump_reg_misc.ko
+drivers/char/sunxi-sysinfo/sunxi-sysinfo.ko
+drivers/char/sunxi_g2d/g2d_sunxi.ko

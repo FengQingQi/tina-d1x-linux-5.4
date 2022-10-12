@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/nf_log_ipv4.ko := riscv64-unknown-linux-gnu-ld -r  -melf64lriscv  --build-id  -T ./scripts/module-common.lds -T ./arch/riscv/kernel/module.lds -o net/ipv4/netfilter/nf_log_ipv4.ko net/ipv4/netfilter/nf_log_ipv4.o net/ipv4/netfilter/nf_log_ipv4.mod.o;  true

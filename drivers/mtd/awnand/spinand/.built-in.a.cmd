@@ -1,0 +1,1 @@
+cmd_drivers/mtd/awnand/spinand/built-in.a := echo >/dev/null; rm -f drivers/mtd/awnand/spinand/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/mtd/awnand/spinand/built-in.a drivers/mtd/awnand/spinand/sunxi-core.o drivers/mtd/awnand/spinand/sunxi-debug.o drivers/mtd/awnand/spinand/physic/built-in.a drivers/mtd/awnand/spinand/secure-storage.o

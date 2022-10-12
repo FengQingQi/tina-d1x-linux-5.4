@@ -1,0 +1,14 @@
+!<thin>
+//                                              100       `
+nf_defrag_ipv4.o/
+nf_reject_ipv4.o/
+ip_tables.o/
+iptable_filter.o/
+iptable_mangle.o/
+iptable_nat.o/
+/0              0           0     0     644     6008      `
+/18             0           0     0     644     6920      `
+/36             0           0     0     644     34848     `
+/49             0           0     0     644     7008      `
+/67             0           0     0     644     6872      `
+/85             0           0     0     644     6760      `

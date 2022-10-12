@@ -1,0 +1,1 @@
+cmd_drivers/irqchip/built-in.a := echo >/dev/null; rm -f drivers/irqchip/built-in.a; riscv64-unknown-linux-gnu-ar cDPrST drivers/irqchip/built-in.a drivers/irqchip/irqchip.o drivers/irqchip/irq-sifive-plic.o

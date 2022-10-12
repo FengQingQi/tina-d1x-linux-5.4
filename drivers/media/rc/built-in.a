@@ -1,0 +1,12 @@
+!<thin>
+//                                              78        `
+rc-main.o/
+rc-ir-raw.o/
+ir-nec-decoder.o/
+rc-sunxi-keymaps.o/
+sunxi-ir-dev.o/
+/0              0           0     0     644     57936     `
+/11             0           0     0     644     26448     `
+/24             0           0     0     644     7784      `
+/42             0           0     0     644     1920      `
+/62             0           0     0     644     29928     `
